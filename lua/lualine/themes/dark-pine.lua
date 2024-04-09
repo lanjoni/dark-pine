@@ -1,5 +1,5 @@
-local p = require("rose-pine.palette")
-local config = require("rose-pine.config")
+local p = require("dark-pine.palette")
+local config = require("dark-pine.config")
 
 local bg_base = p.base
 if config.options.styles.transparency then
