@@ -1,10 +1,10 @@
 local options = require("dark-pine.config").options
 local variants = {
 	main = {
-		_nc = "#16141f",
-		base = "#191724",
-		surface = "#1f1d2e",
-		overlay = "#26233a",
+		_nc = "#0D0C0C",
+		base = "#0D0C0C",
+		surface = "#0D0C0C",
+		overlay = "#0D0C0C",
 		muted = "#6e6a86",
 		subtle = "#908caa",
 		text = "#e0def4",
